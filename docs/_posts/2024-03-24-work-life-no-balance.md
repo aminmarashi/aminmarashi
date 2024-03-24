@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Work-life no balance"
+---
+
 # Work-life no balance
 
 What is the point of being a full-time employee? You spend (or supposed to spend) eight hours every day working which is most of the time not creative working, but talking, dealing with misunderstanding and following senseless rituals.
