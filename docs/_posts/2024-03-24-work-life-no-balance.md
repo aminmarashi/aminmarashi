@@ -3,8 +3,6 @@ layout: post
 title: "Work-life no balance"
 ---
 
-# Work-life no balance
-
 What is the point of being a full-time employee? You spend (or supposed to spend) eight hours every day working which is most of the time not creative working, but talking, dealing with misunderstanding and following senseless rituals.
 That eight hours is just in the name, in reality if you go to the office, you spend at least half hour preparing then around half an hour or an hour commuting to work and back, so realistically around 10 hours is invested every day on your full-time job.
 Considering an 8 hour per night sleep routine, plus half hour waking up and going to sleep routine, 9 hours is spent on sleeping.
